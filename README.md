@@ -17,6 +17,11 @@ func getConnection() (*mongo.Client, context.Context) {
 		log.Fatal(err)
 	}
 ```
+
+## 🔵Third step: Execute your project doing:
+```
+go run main.go
+```
 # Enjoy! ❤
 
 
